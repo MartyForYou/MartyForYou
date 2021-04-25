@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartyForYou
+- 👀 I’m interested in computer science, astronomy and maths
+- 🌱 I’m currently learning Bluetooth implementation with Java for apps and programming language structure like Lexer, Parser and Compiler
+- 💞️ I’m looking to collaborate on any project that I can help
+- 📫 How to reach me: By email
